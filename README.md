@@ -1,66 +1,13 @@
-## Foundry
+## Football Iconic Moments NFT Collection
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+# Overview
+The Football Iconic Moments NFT Collection includes a curated selection of 5 historic football moments, each represented by a unique NFT. These moments span various eras, competitions, and teams, capturing the essence of football's rich history and culture.
 
-Foundry consists of:
+# Highlights of the collection
+- Maradona's Hand of God: The infamous goal scored by Diego Maradona against England in the 1986 FIFA World Cup.
+- Zidane's 2006 World Cup Headbutt: Zinedine Zidane's iconic headbutt to Marco Materrazi in the FIFA World Cup Final.
+- Zlatan's Iconic Bicycle Kick: The god Zlatan's iconic bicycle kick against England
+- kaka's I belong to Jesus Moment : Kaka kneeling down repping I belong to Jesus shirt
+- Rooney's Scissor Kick : Wayne Rooney scores a scissor kick against manchester city.
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+  
